@@ -1,4 +1,4 @@
-package com.example.contractsdemo.mvi
+package com.tracking.task.mvi
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

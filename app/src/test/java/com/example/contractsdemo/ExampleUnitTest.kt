@@ -1,4 +1,4 @@
-package com.example.contractsdemo
+package com.tracking.task
 
 import org.junit.Test
 
